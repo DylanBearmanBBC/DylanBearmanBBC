@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Dylan</h1>
-<h3 align="center">An enthusiastic full stack senior software engineer based in Liverpool, U.K</h3>
+<h3 align="center">An enthusiastic full stack senior software engineering team lead based in Liverpool, U.K</h3>
 
 # 💫 About Me:
 
-🔭 I’m currently working on full stack development projects at the BBC<br>🌱 I’m leading on web media projects and learning about team management<br>💬 Ask me about Javascript, Typescript, React, CSS, Html5 <br>
+🔭 MY team are currently working on full stack development projects at the BBC<br>🌱 I’ve lead web media projects, experiments and continuous discovery practices<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
